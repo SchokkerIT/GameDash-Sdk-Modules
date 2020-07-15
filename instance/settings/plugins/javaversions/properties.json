@@ -1,0 +1,15 @@
+{
+    
+    "id": "7168289a-84b6-11ea-a09e-7bbde12de4d9",
+    "title": "Java versions",
+    "description": "Populate settings with installed Java versions",
+    "author": "Schokker IT B.V.",
+    "resources": [
+        
+        "JavaVersions"
+    
+    ],
+    "path": "Instance/Settings/Plugins/JavaVersions",
+    "version": 1,
+    "isPublic": true
+}

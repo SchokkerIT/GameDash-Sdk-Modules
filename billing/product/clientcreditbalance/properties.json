@@ -1,0 +1,14 @@
+{
+    
+    "id": "5817222b-6fb4-4e49-b3ef-d4c44a0f929f",
+    "title": "Add",
+    "author": "Schokker IT B.V.",
+    "resources": [
+        
+        "Action/AddClientCredit"
+    
+    ],
+    "path": "Billing/Product/ClientCreditBalance",
+    "version": 1
+    
+}

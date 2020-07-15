@@ -1,0 +1,15 @@
+{
+    
+    "id": "771453f7-7b1b-4650-9547-e82503d775d2",
+    "title": "Wine",
+    "description": "Wine infrastructure node dependency",
+    "author": "Schokker IT B.V.",
+    "path": "Infrastructure/Node/Dependency/Wine",
+    "version": 1,
+    "resources": [
+        
+        "Linux"
+    
+    ],
+    "isPublic": true
+}

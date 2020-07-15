@@ -1,0 +1,38 @@
+{
+    
+    "id": "e3c39855-96d8-43c2-b132-7c9975cab35a",
+    "title": "Starbound",
+    "description": "Starbound service module",
+    "author": "Schokker IT B.V.",
+    "resources": [
+    
+        "Console/Console",
+        "Backup/Backup",
+        "FileSystem/FileSystem",
+        "FileSystem/ConfigEditor/ConfigEditor",
+        "Name/Name",
+        "Network/Network",
+        "Task/Tasks",
+        "Setup/Setup",
+        "Process/Process"
+        
+    ],
+    "dependencies": [
+        
+        "Instance/Installer/Sources/SteamCmd"
+    
+    ],
+    "installerSources": [
+        
+        "SteamCmd"
+    
+    ],
+    "taskResources": [
+        
+        "Backup",
+        "Console"
+    
+    ],
+    "version": 1
+    
+}

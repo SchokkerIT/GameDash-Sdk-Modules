@@ -1,0 +1,23 @@
+{
+    
+    "id": "18a41bf0-3aa2-4252-b96b-0ef874b497a1",
+    "title": "TeamSpeak 3",
+    "description": "TeamSpeak 3 service module",
+    "author": "Schokker IT B.V.",
+    "resources": [
+    
+        "FileSystem/FileSystem",
+        "Name/Name",
+        "Statistics/Statistics",
+        "Task/Tasks",
+        "Setup/Setup",
+        "Process/Process",
+        "Shell/Shell",
+        "Client/Connected/Clients"
+        
+    ],
+    "installerSources": [],
+    "taskResources": [],
+    "version": 1
+    
+}

@@ -1,0 +1,16 @@
+{
+    
+    "id": "e756e0c4-84b5-11ea-a9cc-0b15c807e10d",
+    "title": "Holdfast: Nations At War",
+    "author": "Schokker IT B.V.",
+    "resources": [
+        
+        "Action/CreateInstance",
+        "Action/RenewInstance",
+        "Action/UpgradeInstance"
+    
+    ],
+    "path": "Billing/Product/HoldfastNationsAtWar",
+    "version": 1
+    
+}

@@ -1,0 +1,53 @@
+{
+    
+    "id": "5a559560-8566-11ea-80c8-5ba708c93f65",
+    "title": "Arma 3",
+    "description": "Arma 3 service module",
+    "author": "Schokker IT B.V.",
+    "resources": [
+    
+        "Console/Console",
+        "Backup/Backup",
+        "FileSystem/FileSystem",
+        "FileSystem/ConfigEditor/ConfigEditor",
+        "Name/Name",
+        "Network/Network",
+        "Task/Tasks",
+        "Setup/Setup",
+        "Process/Process"
+        
+    ],
+    "dependencies": [
+        
+        "Instance/Installer/Source/SteamCmd"
+        
+    ],
+    "installerSources": [
+        
+        "SteamCmd"
+    
+    ],
+    "taskResources": [
+        
+        "Backup",
+        "Console"
+        
+    ],
+    "supportedOperatingSystems": [
+        
+        "linux", "windows"
+        
+    ],
+    "serviceInfrastructureNodeDependencies": [
+        
+        {
+            
+            "name": "steamcmd",
+            "operatingSystems": ["windows"]
+            
+        }
+        
+    ],
+    "version": 1
+    
+}

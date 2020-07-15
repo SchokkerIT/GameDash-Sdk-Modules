@@ -1,0 +1,45 @@
+{
+    
+    "id": "b4c7a041-bf1a-4bf5-8108-65d41e72f609",
+    "title": "Unturned",
+    "description": "Unturned service module",
+    "author": "Schokker IT B.V.",
+    "resources": [
+    
+        "Console/Console",
+        "Backup/Backup",
+        "FileSystem/FileSystem",
+        "FileSystem/ConfigEditor/ConfigEditor",
+        "Name/Name",
+        "Network/Network",
+        "Statistics/Statistics",
+        "Task/Tasks",
+        "Setup/Setup",
+        "Process/Process"
+        
+    ],
+    "dependencies": [
+        
+        "Instance/Installer/Sources/SteamCmd"
+        
+    ],
+    "supportedOperatingSystems": [
+        
+        "windows"
+        
+    ],
+    "installerSources": [
+        
+        "SteamCmd",
+        "Http"
+    
+    ],
+    "taskResources": [
+        
+        "Backup",
+        "Console"
+        
+    ],
+    "version": 1
+    
+}

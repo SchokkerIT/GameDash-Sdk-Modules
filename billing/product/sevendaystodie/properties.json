@@ -1,0 +1,16 @@
+{
+    
+    "id": "0023f344-84b6-11ea-99b9-63f212c5e8ff",
+    "title": "7 Days to Die",
+    "author": "Schokker IT B.V.",
+    "resources": [
+        
+        "Action/CreateInstance",
+        "Action/RenewInstance",
+        "Action/UpgradeInstance"
+    
+    ],
+    "path": "Billing/Product/SevenDaysToDie",
+    "version": 1
+    
+}

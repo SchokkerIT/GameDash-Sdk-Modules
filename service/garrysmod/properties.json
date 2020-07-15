@@ -1,0 +1,41 @@
+{
+    
+    "id": "a8f37c78-8566-11ea-9dae-93b69321ce16",
+    "title": "Garry's Mod",
+    "description": "Garry's Mod service module",
+    "author": "Schokker IT B.V.",
+    "resources": [
+    
+        "Console/Console",
+        "Backup/Backup",
+        "FileSystem/FileSystem",
+        "FileSystem/ConfigEditor/ConfigEditor",
+        "Name/Name",
+        "Network/Network",
+        "Statistics/Statistics",
+        "Task/Tasks",
+        "Setup/Setup",
+        "Process/Process",
+        "Shell/Shell",
+        "Client/Connected/Clients"
+        
+    ],
+    "dependencies": [
+        
+        "Instance/Installer/Sources/SteamCmd"
+    
+    ],
+    "installerSources": [
+        
+        "SteamCmd"
+    
+    ],
+    "taskResources": [
+        
+        "Backup",
+        "Console"
+    
+    ],
+    "version": 1
+    
+}

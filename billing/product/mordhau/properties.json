@@ -1,0 +1,16 @@
+{
+    
+    "id": "f2235b40-84b5-11ea-8253-37f14438f378",
+    "title": "Mordhau",
+    "author": "Schokker IT B.V.",
+    "resources": [
+        
+        "Action/CreateInstance",
+        "Action/RenewInstance",
+        "Action/UpgradeInstance"
+    
+    ],
+    "path": "Billing/Product/Mordhau",
+    "version": 1
+    
+}

@@ -1,0 +1,15 @@
+{
+    
+    "id": "45f3b58a-84b6-11ea-8884-ef4ba00a72e8",
+    "title": "Minecraft Bedrock Edition",
+    "description": "Minecraft Bedrock source",
+    "author": "Schokker IT B.V.",
+    "path": "Instance/Installer/Sources/MinecraftBedrock",
+    "version": 1,
+    "resources": [
+        
+        "Source/Source"
+    
+    ]
+    
+}

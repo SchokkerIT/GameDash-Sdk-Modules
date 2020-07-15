@@ -1,0 +1,35 @@
+{
+    
+    "id": "f593e357-4bc7-4f59-aeee-ac84ff345f0e",
+    "title": "Minecraft Bedrock",
+    "description": "Minecraft Bedrock service module",
+    "author": "Schokker IT B.V.",
+    "resources": [
+    
+        "Console/Console",
+        "Backup/Backup",
+        "FileSystem/FileSystem",
+        "FileSystem/ConfigEditor/ConfigEditor",
+        "Name/Name",
+        "Network/Network",
+        "Statistics/Statistics",
+        "Task/Tasks",
+        "Setup/Setup",
+        "Process/Process",
+        "Shell/Shell",
+        "Client/Connected/Clients"
+        
+    ],
+    "installerSources": [
+        
+        "MinecraftBedrock"
+    
+    ],
+    "taskResources": [
+        
+        "Backup"
+    
+    ],
+    "version": 1
+    
+}

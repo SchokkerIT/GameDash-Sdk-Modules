@@ -1,0 +1,39 @@
+{
+    
+    "id": "70394bac-b5d7-4644-ab1f-3f92fa75e183",
+    "title": "Mordhau",
+    "description": "Mordhau service module",
+    "author": "Schokker IT B.V.",
+    "resources": [
+        
+        "Console/Console",
+        "Backup/Backup",
+        "FileSystem/FileSystem",
+        "FileSystem/ConfigEditor/ConfigEditor",
+        "Name/Name",
+        "Network/Network",
+        "Statistics/Statistics",
+        "Task/Tasks",
+        "Setup/Setup",
+        "Process/Process",
+        "Client/Clients"
+        
+    ],
+    "dependencies": [
+        
+        "Instance/Installer/Sources/SteamCmd"
+    
+    ],
+    "installerSources": [
+        
+        "SteamCmd"
+    
+    ],
+    "taskResources": [
+        
+        "Backup"
+    
+    ],
+    "version": 1
+    
+}

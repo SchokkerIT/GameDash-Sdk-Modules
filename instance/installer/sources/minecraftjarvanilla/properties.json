@@ -1,0 +1,16 @@
+{
+    
+    "id": "48589c32-84b6-11ea-b818-c72eea876e96",
+    "title": "Minecraft Vanilla jars",
+    "description": "Minecraft Vanilla jar source",
+    "author": "Schokker IT B.V.",
+    "path": "Instance/Installer/Sources/MinecraftJarVanilla",
+    "version": 1,
+    "resources": [
+        
+        "source"
+    
+    ],
+    "isPublic": true
+    
+}

@@ -1,0 +1,39 @@
+{
+    
+    "id": "a1791930-8566-11ea-a0a4-db7e5aa401fa",
+    "title": "Counter-Strike: Source",
+    "description": "Counter-Strike: Source service module",
+    "author": "Schokker IT B.V.",
+    "resources": [
+    
+        "Console/Console",
+        "Backup/Backup",
+        "FileSystem/FileSystem",
+        "FileSystem/ConfigEditor/ConfigEditor",
+        "Name/Name",
+        "Network/Network",
+        "Statistics/Statistics",
+        "Task/Tasks",
+        "Setup/Setup",
+        "Process/Process"
+        
+    ],
+    "dependencies": [
+        
+        "Instance/Installer/Sources/SteamCmd"
+    
+    ],
+    "installerSources": [
+        
+        "SteamCmd"
+    
+    ],
+    "taskResources": [
+        
+        "Backup",
+        "Console"
+    
+    ],
+    "version": 1
+    
+}

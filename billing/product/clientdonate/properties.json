@@ -1,0 +1,14 @@
+{
+    
+    "id": "d5ed16d2-84b5-11ea-a19f-8325b7632b9c",
+    "title": "Add",
+    "author": "Schokker IT B.V.",
+    "resources": [
+        
+        "Action/Donate"
+    
+    ],
+    "path": "Billing/Product/ClientDonate",
+    "version": 1
+    
+}

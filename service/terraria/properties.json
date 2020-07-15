@@ -1,0 +1,37 @@
+{
+    
+    "id": "9ea5d4a3-44ef-4883-b268-40f460012590",
+    "title": "Terraria",
+    "description": "Terraria service module",
+    "author": "Schokker IT B.V.",
+    "resources": [
+    
+        "Backup/Backup",
+        "FileSystem/FileSystem",
+        "FileSystem/ConfigEditor/ConfigEditor",
+        "Name/Name",
+        "Network/Network",
+        "Statistics/Statistics",
+        "Task/Tasks",
+        "Setup/Setup",
+        "Process/Process"
+        
+    ],
+    "dependencies": [
+        
+        "Instance/Installer/Sources/SteamCmd"
+    
+    ],
+    "installerSources": [
+        
+        "TShock"
+    
+    ],
+    "taskResources": [
+        
+        "Backup"
+    
+    ],
+    "version": 1
+    
+}

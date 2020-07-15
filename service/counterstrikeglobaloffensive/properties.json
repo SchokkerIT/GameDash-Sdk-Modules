@@ -1,0 +1,38 @@
+{
+    
+    "id": "9cba2ed4-8566-11ea-8e8d-7bdaaae23cdd",
+    "title": "Counter-Strike: Global Offensive",
+    "description": "Counter-Strike: Global Offensive service module",
+    "author": "Schokker IT B.V.",
+    "resources": [
+    
+        "Console/Console",
+        "Backup/Backup",
+        "FileSystem/FileSystem",
+        "FileSystem/ConfigEditor/ConfigEditor",
+        "Name/Name",
+        "Network/Network",
+        "Statistics/Statistics",
+        "Task/Tasks",
+        "Setup/Setup",
+        "Process/Process"
+        
+    ],
+    "dependencies": [
+        
+        "Instance/Installer/Sources/SteamCmd"
+    
+    ],
+    "installerSources": [
+        
+        "SteamCmd"
+    
+    ],
+    "taskResources": [
+        
+        "Backup"
+    
+    ],
+    "version": 1
+    
+}

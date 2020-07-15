@@ -1,0 +1,16 @@
+{
+    
+    "id": "eae03524-84b5-11ea-8fb3-bb62d6ee69cd",
+    "title": "Minecraft",
+    "author": "Schokker IT B.V.",
+    "resources": [
+        
+        "Action/CreateInstance",
+        "Action/RenewInstance",
+        "Action/UpgradeInstance"
+    
+    ],
+    "path": "Billing/Product/Minecraft",
+    "version": 1
+    
+}

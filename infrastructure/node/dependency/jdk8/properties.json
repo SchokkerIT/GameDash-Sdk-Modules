@@ -1,0 +1,32 @@
+{
+    
+    "id": "372e3538-eb00-4709-89d6-55cf7e9174de",
+    "title": "JDK 8",
+    "description": "JDK 8 infrastructure node dependency",
+    "author": "Schokker IT B.V.",
+    "path": "Infrastructure/Node/Dependency/JDK8",
+    "version": 1,
+    "resources": [
+        
+        "Linux"
+    
+    ],
+    "infrastructure": {
+        
+        "node": {
+            
+            "dependency": {
+                
+                "group": {
+                    
+                    "name": "jdk"
+                    
+                }
+                
+            }
+            
+        }
+        
+    },
+    "isPublic": true
+}

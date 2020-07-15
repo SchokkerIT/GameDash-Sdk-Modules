@@ -1,0 +1,37 @@
+{
+    
+    "id": "23ba41bb-2963-497c-bd3e-134ad608064a",
+    "title": "Rust",
+    "description": "Rust service module",
+    "author": "Schokker IT B.V.",
+    "resources": [
+        
+        "Console/Console",
+        "Backup/Backup",
+        "FileSystem/FileSystem",
+        "Network/Network",
+        "Statistics/Statistics",
+        "Task/Tasks",
+        "Setup/Setup",
+        "Process/Process",
+        "Client/Clients"
+        
+    ],
+    "dependencies": [
+        
+        "Instance/Installer/Sources/SteamCmd"
+    
+    ],
+    "installerSources": [
+        
+        "SteamCmd"
+    
+    ],
+    "taskResources": [
+        
+        "Backup"
+    
+    ],
+    "version": 1
+    
+}

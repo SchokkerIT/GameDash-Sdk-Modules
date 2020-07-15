@@ -1,0 +1,44 @@
+{
+    
+    "id": "4d54f9f0-aa68-4c70-9605-3afaa8abf5a6",
+    "title": "Onset",
+    "description": "Onset service module",
+    "author": "Schokker IT B.V.",
+    "resources": [
+    
+        "Console/Console",
+        "Backup/Backup",
+        "FileSystem/FileSystem",
+        "FileSystem/ConfigEditor/ConfigEditor",
+        "Name/Name",
+        "Network/Network",
+        "Statistics/Statistics",
+        "Task/Tasks",
+        "Setup/Setup",
+        "Process/Process"
+        
+    ],
+    "dependencies": [
+        
+        "Instance/Installer/Sources/SteamCmd"
+    
+    ],
+    "installerSources": [
+        
+        "SteamCmd"
+    
+    ],
+    "taskResources": [
+        
+        "Backup",
+        "Console"
+        
+    ],
+    "supportedOperatingSystems": [
+        
+        "windows", "linux"
+        
+    ],
+    "version": 1
+    
+}

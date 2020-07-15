@@ -1,0 +1,16 @@
+{
+    
+    "id": "e4412f2a-84b5-11ea-befa-5bc68903e431",
+    "title": "Garry's Mod",
+    "author": "Schokker IT B.V.",
+    "resources": [
+        
+        "Action/CreateInstance",
+        "Action/RenewInstance",
+        "Action/UpgradeInstance"
+    
+    ],
+    "path": "Billing/Product/GarrysMod",
+    "version": 1
+    
+}

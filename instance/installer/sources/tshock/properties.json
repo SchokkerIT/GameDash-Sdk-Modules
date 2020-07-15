@@ -1,0 +1,15 @@
+{
+    
+    "id": "5270a7dc-84b6-11ea-ae86-07fe51b83802",
+    "title": "TShock source",
+    "description": "TShock source",
+    "author": "Schokker IT B.V.",
+    "path": "Instance/Installer/Sources/TShock",
+    "version": 1,
+    "resources": [
+        
+        "Source/Source"
+    
+    ]
+    
+}

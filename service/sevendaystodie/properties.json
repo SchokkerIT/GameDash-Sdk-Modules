@@ -1,0 +1,37 @@
+{
+    
+    "id": "e9189a85-d0f7-4fc0-9e7d-cda93bf8a7fd",
+    "title": "7 Days to Die",
+    "description": "7 Days to Die service module",
+    "author": "Schokker IT B.V.",
+    "resources": [
+    
+        "Backup/Backup",
+        "FileSystem/FileSystem",
+        "FileSystem/ConfigEditor/ConfigEditor",
+        "Name/Name",
+        "Network/Network",
+        "Statistics/Statistics",
+        "Task/Tasks",
+        "Setup/Setup",
+        "Process/Process"
+        
+    ],
+    "dependencies": [
+        
+        "Instance/Installer/Sources/SteamCmd"
+    
+    ],
+    "installerSources": [
+        
+        "SteamCmd"
+    
+    ],
+    "taskResources": [
+        
+        "Backup"
+    
+    ],
+    "version": 1
+    
+}

@@ -1,0 +1,16 @@
+{
+    
+    "id": "f99455fa-84b5-11ea-ac51-ef448857cd99",
+    "title": "Mount & Blade: Bannerlord",
+    "author": "Schokker IT B.V.",
+    "resources": [
+        
+        "Action/CreateInstance",
+        "Action/RenewInstance",
+        "Action/UpgradeInstance"
+    
+    ],
+    "path": "Billing/Product/MountAndBladeBannerlord",
+    "version": 1
+    
+}

@@ -1,0 +1,38 @@
+{
+    
+    "classic_casual": {
+        
+        "gameMode": "0",
+        "gameType": "0"
+        
+    },
+    
+    "classic_competitive": {
+        
+        "gameMode": "1",
+        "gameType": "0"
+        
+    },
+    
+    "arms_race": {
+        
+        "gameMode": "0",
+        "gameType": "1"
+        
+    },
+    
+    "demolition": {
+        
+        "gameMode": "1",
+        "gameType": "1"
+        
+    },
+    
+    "deathmatch": {
+        
+        "gameMode": "2",
+        "gameType": "1"
+        
+    }
+    
+}

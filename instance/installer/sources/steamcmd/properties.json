@@ -1,0 +1,15 @@
+{
+    
+    "id": "4f255212-84b6-11ea-989a-5fc136e31679",
+    "title": "Steam CMD",
+    "description": "Steam CMD installer source",
+    "author": "Schokker IT B.V.",
+    "path": "Instance/Installer/Sources/SteamCmd",
+    "version": 1,
+    "resources": [
+        
+        "Source/Source"
+        
+    ],
+    "isPublic": true
+}

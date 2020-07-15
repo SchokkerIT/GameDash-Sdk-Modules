@@ -1,0 +1,16 @@
+{
+    
+    "id": "0b4d4a2c-84b6-11ea-855a-8fccc5bb827f",
+    "title": "TeamSpeak 3",
+    "author": "Schokker IT B.V.",
+    "resources": [
+        
+        "Action/CreateInstance",
+        "Action/RenewInstance",
+        "Action/UpgradeInstance"
+    
+    ],
+    "path": "Billing/Product/TeamSpeak3",
+    "version": 1
+    
+}

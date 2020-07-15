@@ -1,0 +1,15 @@
+{
+    
+    "id": "6158a013-fd28-4565-a46d-5fefec41184d",
+    "title": "Minecraft Paper jars",
+    "description": "Minecraft Paper installer source",
+    "author": "Schokker IT B.V.",
+    "path": "Instance/Installer/Sources/MinecraftJarPaper",
+    "version": 1,
+    "resources": [
+        
+        "Source/Source"
+    
+    ],
+    "isPublic": true
+}

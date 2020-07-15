@@ -1,0 +1,16 @@
+{
+    
+    "id": "e5c1c880-d1e4-4f08-b47d-e311309778ca",
+    "title": "C libraries",
+    "description": "C libraries infrastructure node dependency",
+    "author": "Schokker IT B.V.",
+    "path": "Infrastructure/Node/Dependency/LibC",
+    "version": 1,
+    "resources": [
+        
+        "Linux"
+    
+    ],
+    "isPublic": true
+}
+

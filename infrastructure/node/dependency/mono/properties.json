@@ -1,0 +1,15 @@
+{
+    
+    "id": "f439701a-ea4b-482f-b3b5-b0ca5c776f02",
+    "title": "Mono",
+    "description": "Mono infrastructure node dependency",
+    "author": "Schokker IT B.V.",
+    "path": "Infrastructure/Node/Dependency/Mono",
+    "version": 1,
+    "resources": [
+        
+        "Linux"
+    
+    ],
+    "isPublic": true
+}

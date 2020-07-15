@@ -1,0 +1,44 @@
+
+### Server Details
+
+server_name {server_name}
+server_region europe
+#server_password mypassword
+
+server_port {server_port}
+steam_communications_port {steam_communications_port}
+steam_query_port {steam_query_port}
+
+server_welcome_message {server_welcome_message}
+
+### Map Rotations
+
+!map_rotation start
+map_name PalisadeArena
+game_mode ArmyBattlefield
+round_time_minutes -1
+faction_balancing false
+allow_faction_switching true
+allow_spectating true
+minimum_players -1
+maximum_players {maximum_players}
+time_hour 15
+time_dynamic false
+weather_preset calm
+weather_dynamic false
+!map_rotation end
+
+!map_rotation start
+map_name SnowyPlains
+game_mode ArmyBattlefield
+round_time_minutes -1
+faction_balancing false
+allow_faction_switching true
+allow_spectating true
+minimum_players -1
+maximum_players {maximum_players}
+time_hour 15
+time_dynamic false
+weather_preset calm
+weather_dynamic false
+!map_rotation end

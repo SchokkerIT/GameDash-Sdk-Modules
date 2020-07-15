@@ -1,0 +1,15 @@
+{
+    
+    "id": "73e537f2-84b6-11ea-a329-3bd6c63e33e3",
+    "title": "Directory Contents",
+    "description": "Populate settings with contents from directory",
+    "author": "Schokker IT B.V.",
+    "resources": [
+        
+        "DirectoryContents"
+    
+    ],
+    "path": "Instance/Settings/Plugins/DirectoryContents",
+    "version": 1,
+    "isPublic": true
+}

@@ -1,0 +1,16 @@
+{
+    
+    "id": "fd20659c-84b5-11ea-af2a-b786a368af9d",
+    "title": "Mount & Blade: Warband",
+    "author": "Schokker IT B.V.",
+    "resources": [
+        
+        "Action/CreateInstance",
+        "Action/RenewInstance",
+        "Action/UpgradeInstance"
+    
+    ],
+    "path": "Billing/Product/MountAndBladeWarband",
+    "version": 1
+    
+}

@@ -1,0 +1,56 @@
+{
+    
+    "id": "1dcc23c4-4109-49cf-bbc7-6d21c35187fd",
+    "title": "Mount & Blade: Warband",
+    "description": "Mount & Blade: Warband service module",
+    "author": "Schokker IT B.V.",
+    "resources": [
+        
+        "Backup/Backup",
+        "FileSystem/FileSystem",
+        "FileSystem/ConfigEditor/ConfigEditor",
+        "Name/Name",
+        "Network/Network",
+        "Statistics/Statistics",
+        "Task/Tasks",
+        "Setup/Setup",
+        "Process/Process",
+        "Client/Clients"
+        
+    ],
+    "dependencies": [
+        
+        "Instance/Installer/Sources/SteamCmd"
+    
+    ],
+    "installerSources": [
+        
+        "Http"
+    
+    ],
+    "taskResources": [
+        
+        "Backup"
+    
+    ],
+    "events": [
+        
+        {
+            
+            "name": "instance.installer.source.resource.install",
+            "listeners": [
+                
+                {
+    
+                    "path": "Installer/Source/Resource/Install"
+                    
+                }
+                
+            ]
+            
+        }
+        
+    ],
+    "version": 1
+    
+}

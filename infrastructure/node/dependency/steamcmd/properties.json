@@ -1,0 +1,15 @@
+{
+    
+    "id": "06d2d7c1-8efa-4f9b-9374-e29aaff318aa",
+    "title": "Steam CMD",
+    "description": "Steam CMD infrastructure node dependency",
+    "author": "Schokker IT B.V.",
+    "path": "Infrastructure/Node/Dependency/SteamCMD",
+    "version": 1,
+    "resources": [
+        
+        "Linux", "Windows"
+    
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,16 @@
+{
+    
+    "id": "0ed1f602-84b6-11ea-a723-2b1c3817bb88",
+    "title": "Terraria",
+    "author": "Schokker IT B.V.",
+    "resources": [
+        
+        "Action/CreateInstance",
+        "Action/RenewInstance",
+        "Action/UpgradeInstance"
+    
+    ],
+    "path": "Billing/Product/Terraria",
+    "version": 1
+    
+}

@@ -1,0 +1,74 @@
+{
+    
+    "id": "e5eeff8e-b2fc-4dc1-915a-eca6586acf3a",
+    "title": "Minecraft service module",
+    "description": "Minecraft service module",
+    "author": "Schokker IT B.V.",
+    "path": "Service/Minecraft",
+    "resources": [
+    
+        "Console/Console",
+        "Backup/Backup",
+        "FileSystem/FileSystem",
+        "FileSystem/ConfigEditor/ConfigEditor",
+        "Name/Name",
+        "Network/Network",
+        "Statistics/Statistics",
+        "Task/Tasks",
+        "Setup/Setup",
+        "Process/Process",
+        "Shell/Shell",
+        "Client/Connected/Clients",
+        "Legal/Legal",
+        "Dns/Dns"
+        
+    ],
+    "dependencies": [
+    
+        "Instance/Installer/Sources/MinecraftJarVanilla",
+        "Instance/Installer/Sources/MinecraftJarPaper",
+        "Instance/Installer/Sources/Spiget",
+        "Instance/Settings/Plugins/DirectoryContents",
+        "Instance/Settings/Plugins/JavaVersions",
+        "Infrastructure/Node/Dependency/JDK11",
+        "Infrastructure/Node/Dependency/JDK8"
+    
+    ],
+    "installerSources": [
+        
+        "Spiget",
+        "MinecraftJarVanilla",
+        "MinecraftJarPaper"
+    
+    ],
+    "scheduleTaskActions": [
+        
+        "Console"
+        
+    ],
+    "supportedOperatingSystems": [
+        
+        "windows", "linux"
+        
+    ],
+    "serviceInfrastructureNodeDependencies": [
+        
+        {
+            
+            "name": "JDK8",
+            "operatingSystems": ["windows", "linux"]
+            
+        },
+    
+        {
+        
+            "name": "JDK11",
+            "operatingSystems": ["windows", "linux"]
+        
+        }
+    
+    ],
+    "isPublic": true,
+    "version": 1
+    
+}

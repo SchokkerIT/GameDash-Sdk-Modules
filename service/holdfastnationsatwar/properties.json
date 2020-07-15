@@ -1,0 +1,59 @@
+{
+    
+    "id": "c308f84f-5368-4f87-b83c-543590f967a8",
+    "title": "Prime & Load service module",
+    "description": "Prime & Load service module",
+    "author": "Schokker IT B.V.",
+    "path": "Service/HoldfastNationsAtWar",
+    "resources": [
+        
+        "Console/Console",
+        "Backup/Backup",
+        "FileSystem/FileSystem",
+        "FileSystem/ConfigEditor/ConfigEditor",
+        "Name/Name",
+        "Network/Network",
+        "Statistics/Statistics",
+        "Task/Tasks",
+        "Setup/Setup",
+        "Process/Process"
+    
+    ],
+    "dependencies": [
+        
+        "Instance/Installer/Sources/SteamCmd",
+        "Instance/Installer/Sources/HoldfastNationsAtWar"
+    
+    ],
+    "installerSources": [
+        
+        "SteamCmd"
+    
+    ],
+    "supportedOperatingSystems": [
+        
+        "windows", "linux"
+    
+    ],
+    "serviceInfrastructureNodeDependencies": [
+        
+        {
+            
+            "name": "steamcmd",
+            "operatingSystems": ["windows", "linux"]
+            
+        }
+    
+    ],
+    "shellExecutables": [
+        
+        {
+            
+            "path": "Instance/Shell/Executables/Installer/Source/Resource/SetPreferredBranch"
+            
+        }
+    
+    ],
+    "version": 1
+    
+}

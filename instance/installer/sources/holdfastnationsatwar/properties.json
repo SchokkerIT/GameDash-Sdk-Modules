@@ -1,0 +1,15 @@
+{
+    
+    "id": "4b4837ae-84b6-11ea-84a0-6379c28b6289",
+    "title": "Holdfast: Nations at War mods",
+    "description": "Holdfast: Nations at War mods installer source",
+    "author": "Schokker IT B.V.",
+    "path": "Instance/Installer/Sources/HoldfastNationsAtWar",
+    "version": 1,
+    "resources": [
+        
+        "Source/Source"
+    
+    ],
+    "isPublic": true
+}

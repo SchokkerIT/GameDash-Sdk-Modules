@@ -1,0 +1,16 @@
+{
+    
+    "id": "dd78c7ca-84b5-11ea-8d4e-b35c671c3280",
+    "title": "Counter-Strike: Source",
+    "author": "Schokker IT B.V.",
+    "resources": [
+        
+        "Action/CreateInstance",
+        "Action/RenewInstance",
+        "Action/UpgradeInstance"
+    
+    ],
+    "path": "Billing/Product/CounterStrikeSource",
+    "version": 1
+    
+}

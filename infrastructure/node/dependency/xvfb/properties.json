@@ -1,0 +1,15 @@
+{
+    
+    "id": "b0e8cbc8-e097-42ed-adac-025a701cef18",
+    "title": "Xvfb",
+    "description": "XVFB infrastructure node dependency",
+    "author": "Schokker IT B.V.",
+    "path": "Infrastructure/Node/Dependency/Xvfb",
+    "version": 1,
+    "resources": [
+        
+        "Linux"
+    
+    ],
+    "isPublic": true
+}

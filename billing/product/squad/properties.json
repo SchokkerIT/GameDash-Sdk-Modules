@@ -1,0 +1,16 @@
+{
+    
+    "id": "03fa1d72-84b6-11ea-9c19-e3e802952412",
+    "title": "Squad",
+    "author": "Schokker IT B.V.",
+    "resources": [
+        
+        "Action/CreateInstance",
+        "Action/RenewInstance",
+        "Action/UpgradeInstance"
+    
+    ],
+    "path": "Billing/Product/Squad",
+    "version": 1
+    
+}

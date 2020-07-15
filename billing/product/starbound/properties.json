@@ -1,0 +1,16 @@
+{
+    
+    "id": "07fd6dd4-84b6-11ea-862a-8350c1a3da13",
+    "title": "Starbound",
+    "author": "Schokker IT B.V.",
+    "resources": [
+        
+        "Action/CreateInstance",
+        "Action/RenewInstance",
+        "Action/UpgradeInstance"
+    
+    ],
+    "path": "Billing/Product/Starbound",
+    "version": 1
+    
+}

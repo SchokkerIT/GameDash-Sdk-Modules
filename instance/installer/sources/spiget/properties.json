@@ -1,0 +1,16 @@
+{
+    
+    "id": "4b4837ae-84b6-11ea-84a0-6379c28b6288",
+    "title": "Spigot plugins",
+    "description": "Spigot plugin installer source",
+    "author": "Schokker IT B.V.",
+    "path": "Instance/Installer/Sources/Spiget",
+    "version": 1,
+    "resources": [
+        
+        "Source/Source"
+    
+    ],
+    "isPublic": true
+    
+}

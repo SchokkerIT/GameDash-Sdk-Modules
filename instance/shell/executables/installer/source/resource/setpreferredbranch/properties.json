@@ -1,0 +1,16 @@
+{
+    
+    "id": "9cb681cb-87b3-41cd-872a-955729cef758",
+    "title": "Set ",
+    "description": "Set preferred branch for installer source resource",
+    "author": "Schokker IT B.V.",
+    "path": "Instance/Shell/Executables/Installer/Source/Resource/SetPreferredBranch",
+    "resources": [
+    
+        "Executable"
+        
+    ],
+    "name": "installer.source.resource.setPreferredBranch",
+    "version": 1
+    
+}

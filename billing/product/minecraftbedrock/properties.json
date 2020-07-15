@@ -1,0 +1,16 @@
+{
+    
+    "id": "eedb6568-84b5-11ea-9e79-4fb68408bdde",
+    "title": "Minecraft Bedrock",
+    "author": "Schokker IT B.V.",
+    "resources": [
+        
+        "Action/CreateInstance",
+        "Action/RenewInstance",
+        "Action/UpgradeInstance"
+    
+    ],
+    "path": "Billing/Product/MinecraftBedrock",
+    "version": 1
+    
+}

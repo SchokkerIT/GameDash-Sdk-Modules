@@ -1,0 +1,33 @@
+{
+    
+    "id": "c3ce6458-8158-49a6-a033-f03206394b47",
+    "title": "JDK 11",
+    "description": "JDK 11 infrastructure node dependency",
+    "author": "Schokker IT B.V.",
+    "path": "Infrastructure/Node/Dependency/JDK11",
+    "version": 1,
+    "resources": [
+        
+        "Linux"
+    
+    ],
+    "infrastructure": {
+        
+        "node": {
+            
+            "dependency": {
+                
+                "group": {
+                    
+                    "name": "jdk",
+                    "isPrimary": true
+                    
+                }
+                
+            }
+            
+        }
+        
+    },
+    "isPublic": true
+}
